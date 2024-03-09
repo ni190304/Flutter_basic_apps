@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "354992429003",
+    "project_id": "ecommerce-7d1b6",
+    "storage_bucket": "ecommerce-7d1b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:354992429003:android:69052f8acaaa8fc8f2c84e",
+        "android_client_info": {
+          "package_name": "com.example.financial_awareness"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "354992429003-hhe3ial3op1rdb9ctiklgnsligtt5nvs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARshYVtkCQd06FlKJgJz7gvxHKYtSIBfg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "354992429003-hhe3ial3op1rdb9ctiklgnsligtt5nvs.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "354992429003-ntffi1h1mcshvjg0r0osvr95veavniij.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.financialAwareness"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
